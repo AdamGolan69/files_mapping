@@ -1,0 +1,1012 @@
+{
+  "Director": {
+    "Christopher Nolan": {
+      "Dunkirk": "Dunkirk 2017 (1080p x265 10bit Tigole) (1).mkv",
+      "Inception": "Inception (2010) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "Interstellar": "Interstellar (2014) IMAX (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "Memento": "Memento (2000) RM (1080p BluRay x265 afm72) (1).mkv"
+    },
+    "Coen Brothers": {
+      "Burn After Reading": "Burn After Reading 2008 (1080p x265 10bit Tigole) (1).mkv",
+      "Hail! Caesar": "Hail, Caesar! 2016 (1080p x265 10bit Tigole) (1).mkv",
+      "The Big Lebowski": "The Big Lebowski (1998) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "The Hudsucker Proxy": "The Hudsucker Proxy 1994 (1080p x265 10bit Tigole) (1).mkv"
+    },
+    "Guy Ritchie": {
+      "Operation Fortune - Ruse de guerre": "Operation Fortune - Ruse de guerre (2023) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "Sherlock Holmes Dual": {
+        "I": "Sherlock Holmes (2009) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "II": "Sherlock Holmes - A Game of Shadows (2011) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+      },
+      "The Gentlemen": "The Gentlemen (2019) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "The Man From U.N.C.L.E": "The Man from U.N.C.L.E. 2015 (1080p x265 10bit Tigole).mkv"
+    },
+    "Hayao Miyazaki": {
+      "Howl's Moving Castle": "Howl's Moving Castle (Hauru no Ugoku Shiro) 2004 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty (1).mkv",
+      "Kiki's Delivery Service": "Kiki's Delivery Service (Majo no Takkyûbin) 1989 1080p Bluray x265 10Bit AAC 2.0 - GetSchwifty (1).mkv",
+      "My Neighbor Totoro": "My Neighbor Totoro (Tonari no Totoro) 1988 1080p Bluray x265 10Bit AAC 2.0 - GetSchwifty (1).mkv",
+      "Princess Mononoke": "Princess Mononoke 1997 HMC (1080p x265 10bit Tigole) (1).mkv",
+      "Spirited Away": "Spirited Away 2001 HMC (1080p x265 10bit Tigole) (1).mkv"
+    },
+    "James Cameron": {
+      "Avatar": "Avatar.2009.2160p.UHD.HDR.BluRay.(x265 10bit DD5.1).[WMAN-LorD] (1).mkv",
+      "The Terminators": {
+        "I": "The Terminator 1984 RM (1080p x265 10bit Tigole) (1).mkv",
+        "II": "Terminator.2.Judgement.Day.1991.BluRay.1080p.x265.10bit-z97.mkv"
+      },
+      "Titanic": "Titanic (1997) (1080p BluRay x265 Silence) (1).mkv",
+      "True Lies": "True.Lies.1994.1080p.WEB-Rip.x265.10bit.5,1ch(xxxpav69) (1).mkv"
+    },
+    "M. Night Shyamalan": {
+      "The Sixth Sense": "The Sixth Sense (1999) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "Universe": {
+        "I - Unbreakable": "Unbreakable (2000) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "II - Split": "Split 2016 (1080p x265 10bit Tigole) (1).mkv",
+        "III - Glass": "Glass (2019) (1080p BluRay x265 10bit Tigole) (1).mkv"
+      }
+    },
+    "Monthy Python": {
+      "And Now For Something Completely Different": "Monty Python's And Now for Something Completely Different 1971 1080p-HighCode.mkv",
+      "And The Holy Grail": "Monty Python and the Holy Grail 1975 (1080p x265 10bit Tigole).mkv",
+      "Life Of Brian": "Life of Brian 1979 (1080p x265 10bit Tigole).mkv"
+    },
+    "Neill Blomkamp": {
+      "Chappie": "Chappie (2015) (1080p BluRay x265 Silence) (1).mkv",
+      "District 9": "District 9 (2009) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+      "Elysium": "Elysium (2013) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+    },
+    "Quentin Tarantino": {
+      "Inglourious Basterds": "Inglourious Basterds (2009) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "Once Upon a Time... in Hollywood": "Once Upon a Time... in Hollywood (2019) (1080p BluRay x265 10bit Tigole).mkv"
+    },
+    "Terry Gilliam": {
+      "12 Monkeys": "Twelve Monkeys (1995) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+      "Brazil": "Brazil 1985 Criterion (1080p x265 10bit Tigole) (1).mkv",
+      "The Zero Theorem": "The Zero Theorem 2013 (1080p x265 10bit Tigole) (1).mkv"
+    },
+    "Tim Burton": {
+      "Alice In Wonderland": "Alice in Wonderland 2010 (1080p x265 10bit Tigole) (1).mkv",
+      "Beetlejuice": "Beetlejuice 1988 BluRay 1080p AC3 HEVC-d3g[PRiME] (1).mkv",
+      "Big Fish": "Big Fish 2003 (1080p x265 10bit Tigole) (1).mkv",
+      "Edward Scissorshands": "Edward Scissorhands 1990 25th Anniv (1080p x265 10bit Tigole) (1).mkv"
+    }
+  },
+  "Genre": {
+    "Action": {
+      "Adventure": {
+        "Godzilla": "Godzilla 1998 RM4K (1080p x265 10bit Tigole).mkv",
+        "Jurassic Park Trilogy": {
+          "I": "Jurassic Park 1993 720p BRRip [A Cryptik Visions H264].mp4",
+          "II": "Jurassic Park II The Lost World 1997 720p BRRip [A Cryptik Visions H264].mp4",
+          "III": "Jurassic Park III 2001 (1080p x265 10bit Tigole).mkv"
+        },
+        "King Kong": "King Kong 2005 Extended (1080p x265 10bit Tigole).mkv",
+        "Sahara": "Sahara (2005) (1080p x265 10bit Tigole).mkv",
+        "Twister": "Twister 1996 BluRay 10Bit 1080p DD5.1  H265-d3g.mkv",
+        "Volcano": "Volcano.mp4"
+      },
+      "Crime": {
+        "Baby Driver": "Baby Driver 2017  (2160p x265 10bit S79 Joy).mkv",
+        "Bad Boys Dual": {
+          "I": "Bad Boys (1995) RM4K (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "Bad Boys II (2003) RM4K (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Blue Thunder": "Blue Thunder 1983 BDRip 10Bit 1080p DD5.1 H265-d3g.mkv",
+        "Bullet Train": "Bullet Train (2022) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Con Air": "Con Air (1997) (1080p x265 10bit Tigole).mkv",
+        "Die Hard Saga": {
+          "I": "Die Hard (1988) (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "Die Hard 2 (1990) (1080p BluRay x265 10bit Tigole).mkv",
+          "Live Free Or Die Hard": "Live Free or Die Hard (2007) Unrated (1080p BluRay x265 10bit Tigole).mkv",
+          "With A Vengence": "Thumbs.db"
+        },
+        "End Of Watch": "End of Watch 2012 (1080p x265 10bit Tigole).mkv",
+        "Escape Plan": "Escape.Plan.2013.BluRay.1080p.x265.10bit-z97.mkv",
+        "Face Off": "Face-Off 1997 (1080p x265 10bit Tigole).mkv",
+        "Plane": "Plane (2023) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Snake Eyes": "Snake.Eyes.1998.1080p.BluRay.X264-Japhson.mkv",
+        "Speed": "Speed 1994 (1080p x265 10bit Tigole).mkv",
+        "The Fast And The Furious Saga": {
+          "I": "1-The.Fast.and.The.Furious.2001.1080p.10bit.BluRay.x265.HEVC.6CH-MRN.mkv",
+          "II": "2-2.Fast.2.Furious.2003.1080p.10bit.BluRay.x265.HEVC.6CH-MRN.mkv",
+          "III": "The Fast and The Furious Tokyo Drift 2006 10Bit 1080p Dts-HD Ma5.1 H265-d3g.mkv",
+          "IV": "4-Fast&Furious.2009.1080p.10bit.BluRay.x265.HEVC.6CH-MRN.mkv",
+          "V": "Fast Five 2011 BluRay 10Bit 1080p Dts-HD Ma5.1 H265-d3g.mkv",
+          "VI": "Fast and Furious Six 2013 BluRay 10Bit 1080p Dts-HD Ma5.1 H265-d3g.mkv",
+          "VII": "Furious 7 2015 BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+          "VIII": "The Fate of the Furious 2017 (1080p x265 10bit Tigole).mkv"
+        },
+        "The Fugitive": "The Fugitive (1993) 20th Anniv (1080p BluRay x265 10bit Tigole).mkv"
+      },
+      "End Of The World": {
+        "2012": "2012 (2009) 1080p x265 6ch.mkv",
+        "Armageddon": "Armageddon (1998) 1080p 10bit Bluray x265 HEVC [Org BD 2.0 Hindi + DD 5.1 English] MSubs ~ Jitu.mkv",
+        "Greenland": "Greenland (2020) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "The Day After Tomorrow": "The Day After Tomorrow (2004) 1080p 10bit Bluray x265 HEVC [Org DD 2.0 Hindi + DD 5.1 Eng] ESubs ~ Jitu.mkv",
+        "Water World": "Waterworld (1995) Ulysses Cut RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "World War Z": "World War Z 2013 Unrated (1080p x265 10bit Tigole).mkv",
+        "Zombieland": {
+          "I": "[Prof] Zombieland.mkv",
+          "II": "Zombieland - Double Tap (2019) (1080p BluRay x265 10bit Tigole).mkv"
+        }
+      },
+      "Miscellaneous": {
+        "Deep Blue Sea": "Deep.Blue.Sea.1999.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69).mkv",
+        "Gamer": "Gamer.2009.Extended.Cut.BluRay.1080p.x264.AAC.5.1.-.Hon3y.mkv",
+        "John Wick": {
+          "Chapter I": "John Wick (2014) (1080p BluRay x265 10bit Tigole).mkv",
+          "Chapter II": "John Wick - Chapter 2 (2017) (1080p BluRay x265 10bit Tigole).mkv",
+          "Chapter III": "John Wick - Chapter 3 - Parabellum (2019) (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Tremors": "Tremors (1990) (1080p x265 10bit Tigole).mkv"
+      },
+      "Spies": {
+        "007": {
+          "1962 - Dr. No": "Dr. No 1962 (1080p x265 10bit apekat).mkv",
+          "1963 - From Russia With Love": "From Russia with Love 1963 (1080p x265 10bit apekat).mkv",
+          "1964 - Goldfinger": "Goldfinger 1964 (1080p x265 10bit apekat).mkv",
+          "1965 - Thunderball": "Thunderball 1965 (1080p x265 10bit apekat).mkv",
+          "1967 - casino Royale": "Casino Royale 1967 (1080p x265 10bit apekat).mkv",
+          "1967 - You Only Live Twice": "You Only Live Twice 1967 (1080p x265 10bit apekat).mkv",
+          "1969 - On Her Majesty's Secret Service": "On Her Majesty's Secret Service 1969 (1080p x265 10bit apekat).mkv",
+          "1971 - Diamonds Are Forever": "Diamonds Are Forever 1971 (1080p x265 10bit apekat).mkv",
+          "1973 - Live And Let Die": "Live and Let Die 1973 (1080p x265 10bit apekat).mkv",
+          "1974 - The Man With The Golden Gun": "The Man with the Golden Gun 1974 (1080p x265 10bit apekat).mkv",
+          "1977 - The Spy Who Loved Me": "The Spy Who Loved Me 1977 (1080p x265 10bit apekat).mkv",
+          "1979 - Moonraker": "Moonraker 1979 (1080p x265 10bit apekat).mkv",
+          "1981 - For Your Eyes Only": "For Your Eyes Only 1981 (1080p x265 10bit apekat).mkv",
+          "1983 - Never Say Never Again": "Never Say Never Again 1983 (1080p x265 10bit apekat).mkv",
+          "1983 - Occtopussy": "Octopussy 1983 (1080p x265 10bit apekat).mkv",
+          "1985 - A View To A Kill": "A View to a Kill 1985 (1080p x265 10bit apekat).mkv",
+          "1987 - The Living Daylights": "The Living Daylights 1987 (1080p x265 10bit apekat).mkv",
+          "1989 - Licence To Kill": "Licence to Kill 1989 (1080p x265 10bit apekat).mkv",
+          "1995 - Golden Eye": "GoldenEye 1995 (1080p x265 10bit apekat).mkv",
+          "1997 - Tomorrow Never Dies": "Tomorrow Never Dies 1997 (1080p x265 10bit apekat).mkv",
+          "1999 - The World  Is Not Enough": "The World Is Not Enough 1999 (1080p x265 10bit apekat).mkv",
+          "2002 - Die Another Day": "Die Another Day 2002 (1080p x265 10bit apekat).mkv",
+          "2006 - Casino Royale": "Casino Royale 2006 (1080p x265 10bit apekat).mkv",
+          "2008 - Quantum Of Solace": "Quantum of Solace 2008 (1080p x265 10bit apekat).mkv",
+          "2012 - Skyfall": "Skyfall 2012 (1080p x265 10bit apekat).mkv",
+          "2015 - Spectre": "Spectre 2015 (1080p x265 10bit apekat).mkv",
+          "2021 - No Time to Die": "No Time to Die (2021) (1080p BluRay x265 10bit Tigole) (1).mkv"
+        },
+        "Atomic Blonde": "Atomic Blonde 2017 (1080p x265 10bit Tigole).mkv",
+        "Enemy Of The State": "Enemy of the State (1998) (1080p x265 10bit Tigole).mkv",
+        "Jack Ryan Collection": {
+          "Clear And Present Danger": "Clear and Present Danger 1994 BluRay 10Bit 1080p DD5.1 H265-d3g.mkv",
+          "Patriot Games": "Patriot Games 1992 BluRay 10Bit 1080p DD5.1 H265-d3g.mkv",
+          "Shadow Recruit": "Jack Ryan - Shadow Recruit 2014 (1080p x265 10bit Tigole).mkv",
+          "The Hunt For Red October": "The Hunt for Red October 1990 BluRay 10Bit 1080p DD5.1 H265-d3g.mkv",
+          "The Sum Of All Fears": "The Sum of All Fears (2002) (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Knight And Day": "Knight.And.Day.2010.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69).mkv",
+        "Mission Impossible Saga": {
+          "Fallout": "Mission - Impossible - Fallout (2018) IMAX (1080p BluRay x265 10bit Tigole).mkv",
+          "Ghost Protocol": "Mission - Impossible - Ghost Protocol (2011) (1080p BluRay x265 10bit Tigole).mkv",
+          "I": "Mission - Impossible (1996) (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "Mission - Impossible II (2000) (1080p BluRay x265 10bit Tigole).mkv",
+          "III": "Mission - Impossible III (2006) (1080p BluRay x265 10bit Tigole).mkv",
+          "Rogue Nation": "Mission - Impossible - Rogue Nation (2015) (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Mr. & Mrs. Smith": "Mr.and.Mrs.Smith.2005.Director's.Cut.BluRay.1080p.x264.AAC.5.1.-.Hon3y.mkv",
+        "The Bourne Saga": {
+          "Bourne": "Jason Bourne (2016) (1080p BluRay x265 10bit Tigole).mkv",
+          "Identity": "The Bourne Identity (2002) (1080p BluRay x265 10bit Tigole).mkv",
+          "Legacy": "The Bourne Legacy (2012) (1080p BluRay x265 10bit Tigole).mkv",
+          "Supermacy": "The Bourne Supremacy (2004) (1080p BluRay x265 10bit Tigole).mkv",
+          "Ultimatum": "The Bourne Ultimatum (2007) (1080p BluRay x265 10bit Tigole).mkv"
+        }
+      },
+      "War": {
+        "Abraham Lincoln Vampire Hunter": "Abraham Lincoln Vampire Hunter 2012  (1080p x265 10bit S70 Joy).mkv",
+        "Air Force One": "Air Force One (1997) (1080p x265 10bit Tigole).mkv",
+        "Broken Arrow": "Broken Arrow 1996 BluRay 1080p DD5.1 x265-d3g[PRiME].mkv",
+        "Eye In The Sky": "Eye.in.the.Sky.2015.1080p.Bluray.10bit.x265.AAC.51-HazMatt.mkv",
+        "Fury": "Fury.2014.BluRay.1080p.x265.10bit-z97.mkv",
+        "G.I. Jane": "G.I. Jane (1997) (1080p x265 10bit Tigole).mkv",
+        "Gladiator": "Gladiator (2000) Extended 10th Anniv (1080p x265 10bit Tigole).mkv",
+        "Immortals": "Immortals 2011 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako.mkv",
+        "Platoon": "Platoon (1986) 25th Anniv (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Saving Private Ryan": "Saving Private Ryan (1998) (1080p BluRay x265 10bit Tigole).mkv",
+        "Stealth": "Stealth 2005 BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+        "The Rock": "The Rock (1996) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Top Gun - Maverick": "Top Gun - Maverick (2022) (1080p BluRay x265 10bit Tigole) (1).mkv"
+      }
+    },
+    "Animation": {
+      "Blue Sky": {
+        "Ferdinand": "Ferdinand (2017) (1080p x265 10bit Tigole).mkv",
+        "Ice Age Saga": {
+          "Continental Drift": "Ice Age Continental Drift 2012 1080p Bluray x265 10Bit AAC 7.1 - GetSchwifty.mkv",
+          "Dawn Of The Dinosaurs": "Ice Age Dawn of the Dinosaurs 2009 1080p Bluray x265 10Bit AAC 7.1 - GetSchwifty.mkv",
+          "I": "Ice Age 2002 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+          "The Meltdown": "Ice Age The Meltdown 2006 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv"
+        },
+        "Robots": "Robots (2005)1080p.BluRay.x265.HEVC.10bit.5,1ch.(xxxpav69).mkv"
+      },
+      "Disney": {
+        "2000's": {
+          "Bolt": "Bolt 2008 (1080p x265 10bit Tigole).mkv",
+          "Chicken Little": "Chicken Little - Amici per le penne (2005) - 1080p iCV-MIRCrew.mkv",
+          "Fantasia 2000": "Fantasia 2000 1999 Diamond (1080p x265 10bit Tigole).mkv",
+          "The Lion King 1.5": "The.Lion.King.3.2004.1080p.BluRay.H264.AAC-RARBG.mp4",
+          "UP": "Up (2009) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "WALL-E": "WALL-E (2008) (2160p BluRay x265 10bit HDR Tigole).mkv"
+        },
+        "2010's": {
+          "Big Hero 6": "Big Hero 6 (2014)  [2160p x265 10bit FS98 Joy].mkv",
+          "Coco": "Coco 2017  (2160p x265 10bit S91 Joy).mkv",
+          "Frozen": "Frozen (2013) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "Inside Out": "Inside Out (2015) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "Moana": "Moana (2016) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "Tangled": "Tangled (2010) (1080p BluRay x265 10bit Tigole).mkv",
+          "Wreck-It Ralph Dual": {
+            "I": "Wreck-It Ralph 2012 (1080p x265 10bit Tigole).mkv",
+            "II": "Ralph Breaks the Internet (2018) (1080p BluRay x265 10bit Tigole).mkv"
+          },
+          "Zootopia": "Zootopia (2016) (2160p BluRay x265 10bit HDR Tigole).mkv"
+        },
+        "2020's": {
+          "Encanto": "Encanto (2021) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "Lightyear": "Lightyear (2022) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "Luca": "Luca (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "Raya And The Last Dragon": "Raya and the Last Dragon (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "Strange World": "Strange World (2022) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "Turning Red": "Turning Red (2022) (1080p BluRay x265 10bit Tigole) (1).mkv"
+        },
+        "90's": {
+          "Aladdin": "Aladdin (1992) (1080p BluRay x265 10bit Tigole).mkv",
+          "Beauty & The Beast": "Beauty and the Beast (1991) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "Mulan": "Mulan 1998 15th Anniv (1080p x265 10bit Tigole).mkv",
+          "Pocahontas": "Pocahontas.1995.1080p.BrRip.x264.YIFY.srt",
+          "The Hunchback Of Notre Dame": "The Hunchback of Notre Dame (1996) (1080p x265 10bit Tigole).mkv",
+          "The Lion King": "The Lion King (1994) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "The Little Mermaid": "The Little Mermaid (1989) Diamond (1080p BluRay x265 10bit Tigole).mkv",
+          "Who Framed Roger Rabbit": "Who Framed Roger Rabbit (1988) 25th Anniv V2 (1080p BluRay x265 10bit Tigole) (1).mkv"
+        },
+        "Classics": {
+          "101 Dalmatians": "101 Dalmatians 1961 Diamond Edition BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+          "Alice In Wonderland": "Alice in Wonderland 1951 60th Anniv (1080p x265 10bit Tigole).mkv",
+          "Bambi": "Bambi 1942 Diamond (1080p x265 10bit Tigole).mkv",
+          "Cinderella": "Cinderella (1950) BDrip 1080p ENG-ITA x264 - Cenerentola -Shiv@.mkv",
+          "Dumbo": "Dumbo 1941 70th Anniv (1080p x265 10bit Tigole).mkv",
+          "Fantasia": "Fantasia 1940 Diamond (1080p x265 10bit Tigole).mkv",
+          "Lady And The Tramp": "Lady and the Tramp 1955 Diamond (1080p x265 10bit Tigole).mkv",
+          "Mary Poppins": "Mary Poppins (1964) 50th Anniv (1080p BluRay x265 10bit Tigole).mkv",
+          "Peter Pan": "Peter Pan 1953 (1080p x265 10bit Tigole).mkv",
+          "Pinocchio": "Pinocchio 1940 (1080p x265 10bit Tigole).mkv",
+          "Robin Hood": "Robin.Hood.1973.1080p.BluRay.x264-HD4U.mkv",
+          "Sleeping Beauty": "Sleeping Beauty 1959 Diamond Edition BluRay 1080p DTS-HD MA 7.1 x264 dxva-FraMeSToR (Silver Torrent).mkv",
+          "Snow White & The Sevevn Dwarves": "Snow White and the Seven Dwarfs 1937 Diamond (1080p x265 10bit Tigole).mkv",
+          "The Aristocats": "Gli Aristogatti (1970) - 1080p iCV-MIRCrew.mkv",
+          "The Best Disney Short 1931-1962": "Disney 1962 A Symposium on Popular Songs .avi",
+          "The Fox & The Hound": "Red e Toby nemiciamici (1981) - 1080p iCV-MIRCrew.mkv",
+          "The Jungle Book": "The Jungle Book 1967 Diamond (1080p x265 10bit Tigole).mkv"
+        },
+        "Live Action": {
+          "Aladdin": "Aladdin (2019) (1080p BluRay x265 10bit Tigole).mkv",
+          "The Jungle Book": "The Jungle Book 2016 (1080p x265 10bit apekat).mkv",
+          "The Lion King": "The Lion King (2019) (2160p BluRay x265 10bit HDR Tigole).mkv"
+        }
+      },
+      "Dr. Seuss": {
+        "Horton Hears A Who!": "Horton Hears a Who! 2008 (1080p x265 10bit Tigole).mkv",
+        "How The Grinch Stole Christmas": "How the Grinch Stole Christmas 2000 15th Anniv (1080p x265 10bit Tigole).mkv",
+        "The Lorax": "The Lorax 2012 (1080p x265 10bit Tigole).mkv"
+      },
+      "DreamWorks": {
+        "Bee Movie": "Bee Movie 2007 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako.mkv",
+        "How To Train Your Dragon": "How to Train Your Dragon 2010 (1080p x265 10bit Tigole).mkv",
+        "Kung Fu Panda Trilogy": {
+          "I": "Kung Fu Panda 2008 (1080p x265 10bit Tigole).mkv",
+          "II": "Kung Fu Panda 2 2011 (1080p x265 10bit Tigole).mkv",
+          "III": "Kung Fu Panda 3 2016 (1080p x265 10bit Tigole).mkv"
+        },
+        "Madagascar Trilogy": {
+          "I": "Madagascar 2005.1080p.BrRip.x264.YIFY.srt",
+          "II": "Madagascar - Escape 2 Africa 2008 (1080p x265 10bit Tigole).mkv",
+          "III": "Madagascar 3 - Europe's Most Wanted 2012 (1080p x265 10bit Tigole).mkv"
+        },
+        "Megamind": "Megamind 2010 (1080p x265 10bit Tigole).mkv",
+        "Monsters Vs Aliens": "Monsters vs Aliens 2009 (1080p x265 10bit Tigole).mkv",
+        "Over The Hedge": "Over the Hedge.1080p.wmv"
+      },
+      "Illumination": {
+        "Despicable Me": "Despicable Me (2010) 1080p 10bit Bluray x265 HEVC [Org DDP 5.1 Hindi + DTS 5.1 English] MSubs ~ {RoCK-HD-STAr}.mkv",
+        "Sing": {
+          "I": "Sing (2016) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "II": "Sing 2 (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+        },
+        "The Secret Life Of Pets 2": "The Secret Life of Pets 2 (2019) (1080p BluRay x265 10bit Tigole).mkv"
+      },
+      "Pixar": {
+        "A Bug's Life": "A Bug's Life 1998 10th Anniv (1080p x265 10bit Tigole).mkv",
+        "Brave": "Brave 2012 1080p Bluray x265 AAC 7.1 - GetSchwifty.mkv",
+        "Cars Trilogy": {
+          "I": "Cars 2006 (1080p x265 10bit Tigole).mkv",
+          "II": "Cars 2 2011 (1080p x265 10bit Tigole).mkv",
+          "III": "Cars 3 2017 (1080p x265 10bit Tigole).mkv"
+        },
+        "Finding Nemo": "Thumbs.db",
+        "Monsters Dual": {
+          "Inc": "Monsters, Inc. 2001 (1080p x265 10bit Tigole).mkv",
+          "University": "Monsters University 2013 (1080p x265 10bit Tigole).mkv"
+        },
+        "Ratatouille": "Ratatouille 2007 (1080p x265 10bit Tigole).mkv",
+        "The Incredibles Dual": {
+          "I": "The Incredibles 2004 (1080p x265 10bit Tigole).mkv",
+          "II": "Incredibles 2 (2018) (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Toy Story Trilogy": {
+          "I": "Toy Story 1995 (1080p x265 10bit Tigole).mkv",
+          "II": "Toy Story 2 1999 (1080p x265 10bit Tigole).mkv",
+          "III": "Toy Story 3 2010 (1080p x265 10bit Tigole).mkv"
+        },
+        "UP": "Up 2009 (1080p x265 10bit Tigole).mkv",
+        "Wall-E": "[Prof] Wall-E.mkv"
+      },
+      "Sony Pictures Animations": {
+        "Cloudy With A Chance Of Meatballs Dual": {
+          "I": "Cloudy with a Chance of Meatballs 2009 (1080p x265 10bit Tigole).mkv",
+          "II": "Cloudy with a Chance of Meatballs 2 2013 (1080p x265 10bit Tigole).mkv"
+        }
+      },
+      "Warner Bros": {
+        "Happy Feet Dual": "Thumbs.db",
+        "Osmosis Jones": "Osmosis Jones (2001) (1080p AMZN WEB-DL x265 FreetheFish).mkv",
+        "Shrek Saga": {
+          "I": "Shrek 2001 (1080p x265 10bit Tigole).mkv",
+          "II": "Shrek 2 2004 (1080p x265 10bit Tigole).mkv",
+          "III": "Shrek the Third 2007 (1080p x265 10bit Tigole).mkv",
+          "IV": "Shrek Forever After 2010 (1080p x265 10bit Tigole).mkv"
+        },
+        "Space Jam": "Space Jam 1996 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "The Lego Batman Movie": "The LEGO Batman Movie 2017 (1080p x265 10bit Tigole).mkv",
+        "The Lego Movie": "The LEGO Movie 2014 (1080p x265 10bit Tigole).mkv"
+      }
+    },
+    "Comedy": {
+      "Miscellaneous": {
+        "Almighties": {
+          "Bruce Almighty": "Bruce Almighty (2003) (1080p BluRay x265 10bit Tigole).mkv",
+          "Evan Almighty": "Evan.Almighty.2007.1080p.BluRay.x264.YIFY.mp4"
+        },
+        "Coming To America": "Coming to America 1988 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "Dave": "Dave (1993) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Fun With Dick And Jane": "Fun With Dick and Jane 2005 BRRip 1080p DD5.1 H265-d3g[N1C].mkv",
+        "Get Hard": "Get.Hard.2015.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69).mkv",
+        "I Now Pronounce You Chuck And Larry": "I.Now.Pronounce.You.Chuck.And.Larry.2007.1080p.BluRay.DTS.x264-ETRG.mkv",
+        "Jumpin Jack Flash": "jumpin.jack.flash.1986.1080p.bluray.x264-psychd.sub",
+        "King Ralph": "King Ralph 1991 BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+        "Nothing To Lose": "Nothing.To.Lose.1997.1080p.WEBRip.x264-[YTS.LT].srt",
+        "Popeye": "Popeye.1980.1080p.WEB-DL.DD5.1.h264-iDLE.mkv",
+        "Sandy Wexler": "Sandy Wexler 2017  (1080p x265 10bit S84 Joy).mkv",
+        "Sister Act Dual": {
+          "I": "Sister Act 1992 20th Anniv (1080p x265 10bit Tigole).mkv",
+          "II": "Sister Act 2 - Back in the Habit (1993) 20th Anniv (1080p x265 10bit Tigole).mkv"
+        },
+        "The Dictator": "The Dictator 2012 Unrated (1080p x265 10bit Tigole).mkv",
+        "The Invention Of Lying": "The Invention of Lying 2009 (1080p x265 10bit Tigole).mkv",
+        "The Mask": "The Mask (1994) (1080p x265 10bit Tigole).mkv",
+        "The Simpsons": "[Prof] The Simpsons Movie.mkv",
+        "Trading Places": "Trading Places (1983) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Tropic Thunder": "Tropic Thunder (2008) DC (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Yes Man": "Yes Man 2008 (1080p x265 10bit Tigole).mkv"
+      },
+      "Spies & Crime": {
+        "21-2 Jump Street": {
+          "21": "21 Jump Street 2012 (1080p x265 10bit Tigole).mkv",
+          "22": "22 Jump Street 2014 (1080p x265 10bit Tigole).mkv"
+        },
+        "Ace Ventura Dual": "Thumbs.db",
+        "Austin Powers Trilogy": {
+          "I": "Austin Powers - International Man of Mystery (1997) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "II": "Austin Powers - The Spy Who Shagged Me (1999) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "III": "Austin Powers in Goldmember (2002) (1080p BluRay x265 10bit Tigole) (1).mkv"
+        },
+        "Bandits": "Bandits (2001) (1080p BluRay x265 Silence).mkv",
+        "Beverly Hills Cop Trilogy": {
+          "I": "Beverly Hills.Cop 1984 BluRay 10Bit 1080p DD5.1 H265-d3g.mkv",
+          "II": "Beverly Hills Cop II 1987 BluRay 10Bit 1080p DD5.1 H265-d3g.mkv",
+          "III": "Beverly Hills Cop III 1994 BluRay 10Bit 1080p DD5.1 H265-d3g.mkv"
+        },
+        "Liar, Liar": "Liar Liar 1997 (1080p x265 10bit Tigole).mkv",
+        "Me, Myself And Irene": "Me, Myself & Irene (2000) (1080p BluRay x265 10bit Tigole).mkv",
+        "Spy": "Spy (2015)1080p.BluRay.x265.HEVC.10bit.5,1ch.(xxxpav69).mkv",
+        "Team America": "Team America - World Police 2004 (1080p x265 10bit Tigole).mkv",
+        "The Hitman's Bodyguard": "The Hitman's Bodyguard 2017 (1080p x265 10bit Tigole).mkv",
+        "The Interview": "The Interview (2014) (1080p x265 10bit Tigole).mkv",
+        "The Other Guys": "The Other Guys [2010] 1080p 10bit BluRay AAC5.1 HEVC-Vyndros.mkv",
+        "The Unbearable Weight of Massive Talent": "The Unbearable Weight of Massive Talent (2022) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Tower Heist": "Tower.Heist.2011.1080p.BluRay.H264.AAC-RARBG.srt",
+        "Undercover Brother": "Undercover Brother (2002) (1080p BluRay x265 10bit Tigole) (1).mkv"
+      },
+      "Stoner's": {
+        "Harold And Kumar Trilogy": {
+          "A Very Harold And Kumar Christmas": "A Very Harold & Kumar Christmas 2011 Extended (1080p x265 10bit Tigole).mkv",
+          "Escape From Guantanamo Bay": "Harold & Kumar Escape from Guantanamo Bay 2008 Unrated (1080p x265 10bit Tigole).mkv",
+          "Go To White Castle": "Harold & Kumar Go to White Castle 2004 Unrated (1080p x265 10bit Tigole).mkv"
+        },
+        "Jackass Trilogy": {
+          "I": "Jackass The Movie.mkv",
+          "II": "Jackass Number Two [2006-DVDRip-H.264]-dB.53.mp4",
+          "III": "Jackass 3 (HD).m4v"
+        },
+        "Ted Dual": {
+          "I": "Ted 2012 Unrated (1080p x265 10bit Tigole).mkv",
+          "II": "Ted 2 2015 Unrated (1080p x265 10bit Tigole).mkv"
+        }
+      },
+      "Total Nonsense": {
+        "A Night At The Roxbury": "A Night at the Roxbury (1998) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Airplane!": "Airplane! 1980 1080p BluRay x264 AC3 - Ozlem.srt",
+        "Ali G Indahouse": "Ali G Indahouse 2002 (1080p x265 10bit Tigole).mkv",
+        "Anchorman": {
+          "I": "Anchorman - The Legend of Ron Burgundy 2004 (1080p x265 10bit Tigole).mkv",
+          "II": "Anchorman 2 - The Legend Continues 2013 Super-Sized (1080p x265 10bit Tigole).mkv"
+        },
+        "Dodgeball - A True Underdog Story": "Dodgeball - A True Underdog Story (2004) Unrated (1080p x265 10bit Tigole).mkv",
+        "Dumb & Dumber Dual": {
+          "I": "Dumb and Dumber 1994 Unrated (1080p x265 10bit Tigole).mkv",
+          "II": "Dumb and Dumber To 2014 (1080p x265 10bit Tigole).mkv"
+        },
+        "Mars Attacks!": "Mars Attacks! 1996 (1080p x265 10bit Tigole).mkv",
+        "Robin Hood - Men in Tights": "Robin Hood - Men in Tights 1993 (1080p x265 10bit Tigole).mkv",
+        "Spaceballs": "Spaceballs 1987 (1080p x265 10bit Tigole).mkv",
+        "Step Brothers": "Step.Brothers.2008.UNRATED.1080p.BluRay.10bit.x265.AAC-Dr3adLoX.mkv",
+        "The Hebrew Hammer": "The Hebrew Hammer.m4v",
+        "Zoolander Dual": {
+          "I": "Zoolander 2001 (1080p x265 10bit Joy).mkv",
+          "II": "Zoolander 2 2016 (1080p x265 10bit Joy).mkv"
+        }
+      }
+    },
+    "Comic": {
+      "DC": {
+        "Batman Collective": {
+          "Begins": "Batman Begins 2005 (1080p x265 10bit Tigole).mkv",
+          "Dark Knight": "The Dark Knight 2008 (1080p x265 10bit Tigole).mkv",
+          "Dark Knight Rises": "The Dark Knight Rises 2012 (1080p x265 10bit Tigole).mkv",
+          "First Vol": "Batman (1989) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "Returns": "Batman Returns (1992) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "The Batman": "The Batman (2022) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+        },
+        "Shazam!": "Shazam! (2019) (1080p BluRay x265 10bit Tigole).mkv"
+      },
+      "Marvel": {
+        "Deadpool Dual": {
+          "I": "Deadpool (2016) (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "Deadpool 2 (2018) Super Duper (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Marvel Cinematic Universe": {
+          "Ant-Man": {
+            "I": "Ant-Man (2015) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "The Wasp": "Ant-Man and the Wasp (2018) (2160p BluRay x265 10bit HDR Tigole).mkv"
+          },
+          "Black Panther": {
+            "I": "Black Panther (2018) (2160p x265 10bit HDR Tigole).mkv",
+            "II": "Black Panther - Wakanda Forever (2022) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+          },
+          "Black Widow": "Black Widow (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "Captain America": {
+            "Civil War": "Captain America - Civil War (2016) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "First Avenger": "Captain America - The First Avenger (2011) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "Winter Soldier": "Captain America - The Winter Soldier (2014) (2160p BluRay x265 10bit HDR Tigole).mkv"
+          },
+          "Captain Marvel": "Captain Marvel (2019) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "Doctor Strange": {
+            "I": "Doctor Strange (2016) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "In the Multiverse of Madness": "Doctor Strange in the Multiverse of Madness (2022) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+          },
+          "Eternals": "Eternals (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "Guardians Of The Galaxy": {
+            "Vol. 1": "Guardians of the Galaxy (2014) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "Vol. 2": "Guardians of the Galaxy Vol. 2 (2017) (2160p BluRay x265 10bit HDR Tigole).mkv"
+          },
+          "Iron Man": {
+            "I": "Iron Man (2008) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "II": "Iron Man 2 (2010) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "III": "Iron Man 3 (2013) (2160p BluRay x265 10bit HDR Tigole).mkv"
+          },
+          "Morbius": "Morbius (2022) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "Shang-Chi And The Legend Of The Ten Rings": "Shang-Chi and the Legend of the Ten Rings (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "Spider-Man": {
+            "Far From Home": "Spider-Man - Far from Home (2019) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "Homecoming": "Spider-Man - Homecoming (2017) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "No Way Home": "Spider-Man - No Way Home (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+          },
+          "The Avengers": {
+            "Age Of Ultron": "Avengers - Age of Ultron (2015) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "Avengers - Endgame of Infinity Saga": "Avengers - Infinity War (2018) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+            "I": "The Avengers (2012) (2160p BluRay x265 10bit HDR Tigole).mkv"
+          },
+          "Thor": {
+            "I": "Thor (2011) (2160p BluRay x265 10bit HDR Tigole).mkv",
+            "Love and Thunder": "Thor - Love and Thunder (2022) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+            "Ragnarok": "Thor - Ragnarok (2017) (2160p x265 10bit HDR Tigole).mkv",
+            "The Dark World": "Thor - The Dark World (2013) (2160p BluRay x265 10bit HDR Tigole).mkv"
+          }
+        },
+        "X-Men": {
+          "Apocalypse": "X-Men - Apocalypse (2016) (1080p BluRay x265 10bit Tigole).mkv",
+          "Days of Future Past": "X-Men - Days of Future Past (2014) The Rogue Cut (1080p BluRay x265 10bit Tigole).mkv",
+          "First Class": "X-Men - First Class (2011) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "I": "X-Men (2000) (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "X-Men 2 (2003) (1080p BluRay x265 10bit Tigole).mkv",
+          "III": "X-Men - The Last Stand (2006) (1080p BluRay x265 10bit Tigole).mkv"
+        }
+      },
+      "Stand Alones": {
+        "300": {
+          "I": "300 (2006) (1080p x265 10bit Tigole).mkv",
+          "II": "300 - Rise of an Empire (2014) (1080p x265 10bit Tigole).mkv"
+        },
+        "Alita - Battle Angel": "Alita - Battle Angel (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "G.I. Joe Dual": {
+          "I": "G.I. Joe The Rise of Cobra [2009] 1080p 10bit BluRay AAC5.1 HEVC-Vyndros.mkv",
+          "II": "G.I. Joe Retaliation [2013] 1080p 10bit BluRay AAC5.1 HEVC-Vyndros.mkv"
+        },
+        "Joker": "Joker (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "Kick Ass": "Kick-Ass 2010  (2160p x265 10bit FS82 Joy).mkv",
+        "Kingsman Dual": {
+          "The Golden Circle": "Kingsman - The Golden Circle 2017 (1080p x265 10bit Tigole).mkv",
+          "The King's Man": "The King's Man (2021) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "The Secret Service": "Kingsman - The Secret Service (2014) (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "RED Dual": {
+          "I": "RED (2010) BDRip 1080p [HEVC] 10Bit.mkv",
+          "II": "RED 2 (2013) BDRip 1080p [HEVC] 10Bit.mkv"
+        },
+        "Sin City": "Sin City 2005 Recut Extended Unrated (1080p x265 10bit apekat).mkv",
+        "Spider-Man Into The Spider-Verse": "Spider-Man - Into the Spider-Verse (2018) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "V for Vendetta": "V for Vendetta (2005) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Watchmen": "Watchmen (2009) Ultimate Cut (2160p BluRay x265 10bit HDR Tigole).mkv"
+      }
+    },
+    "Drama": {
+      "Crime": {
+        "21": "21 (2008) (1080p x265 10bit Tigole).mkv",
+        "A Few Good Men": "A Few Good Men (1992) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "American History X": "American History X 1998 (1080p x265 10bit Tigole).mkv",
+        "Boyz N The Hood": "Boyz n the Hood (1991) (1080p BluRay x265 10bit Tigole).mkv",
+        "Collateral": "Collateral (2004) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Dangerous Minds": "Dangerous.Minds.1995.1080p.WEBRip.x264-[YTS.AM].srt",
+        "Goodfellas": "Goodfellas (1990) 25th Anniv (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Hackers": "Hackers 1995 20th Anniv (1080p x265 10bit Tigole).mkv",
+        "Knives Out": "Knives Out (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "Law Abiding Citizen": "[Prof] Law Abiding Citizen.mkv",
+        "Miss Sloane": "Miss.Sloane.2016.1080p.BRRip.x264.AAC-ETRG.srt",
+        "Murder on the Orient Express": "Murder.on.the.Orient.Express.2017.2160p.UHD.HDR.BluRay.(x265 10bit DD5.1).[WMAN-LorD].mkv",
+        "Nightcrawler": "Nightcrawler 2014 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "Ocean's X": {
+          "8": "Ocean's Eight (2018) (1080p BluRay x265 10bit Tigole).mkv",
+          "11": "Ocean's Eleven 2001 (1080p x265 10bit Tigole).mkv",
+          "12": "Ocean's Twelve 2004 (1080p x265 10bit Tigole).mkv",
+          "13": "Ocean's Thirteen 2007 (1080p x265 10bit Tigole).mkv"
+        },
+        "Philadelphia": "Philadelphia (1993) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Runaway Jury": "Runaway Jury (2003) (1080p BluRay x265 10bit Tigole).mkv",
+        "Searching": "Searching (2018) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Secret in Their Eyes": "Secret in Their Eyes (2015) (1080p x265 10bit Tigole).mkv",
+        "The Call": "The.Call.2013.1080p.BluRay.x264.YIFY.srt",
+        "The Green Mile": "The Green Mile (1999) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "The Judge": "The Judge (2014) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "The Last Castle": "The.Last.Castle.2001.1080p.WEB-DL.DD5.1.H264-FGT.mkv",
+        "The Negotiator": "The Negotiator 1998 (1080p x265 10bit Tigole).mkv",
+        "The Shawshank Redemption": "The Shawshank Redemption (1994) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "The Usual Suspects": "The Usual Suspects (1995) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv"
+      },
+      "Miscellaneous": {
+        "Being There": "Being There (1979) Criterion (1080p BluRay x265 r00t).mkv",
+        "Click": "Click.2006.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69).mkv",
+        "Forrest Gump": "Forrest Gump (1994) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Gifted": "Gifted 2017 (1080p x265 10bit Tigole).mkv",
+        "Good Morning Vietnam": "Good Morning, Vietnam 1987 (1080p x265 10bit Tigole).mkv",
+        "Money Monster": "Money.Monster.1080p.BDRiP.10BIT.x265.DTS-MAJESTiC[PRiME].mkv",
+        "Nerve": "Nerve.2016.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv",
+        "Okja": "Okja (2017) Criterion (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "The Curious Case Of Benjamin Button": "The Curious Case of Benjamin Button (2008) Criterion (1080p BluRay x265 10bit Tigole).mkv",
+        "The Family Man": "The Family Man 2000 (1080p x265 10bit Tigole).mkv",
+        "The Grand Budapest Hotel": "The Grand Budapest Hotel (2014) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "The Kingdom": "The Kingdom (2007) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] ESubs ~ Jitu.mkv",
+        "The Last Samurai": "The Last Samurai 2003 (1080p x265 10bit Tigole) (1).mkv",
+        "The Martian": "The Martian (2015) Extended (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "The Truman Show": "The Truman Show 1998 (1080p x265 10bit Tigole).mkv"
+      },
+      "Psychological": {
+        "Birdman": "Birdman 2014 (1080p x265 10bit Tigole).mkv",
+        "Blindness": "Blindness.2008.1080p.BrRip.x264.YIFY.srt",
+        "Donnie Darko": "Donnie Darko (2001) DC RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Field Of Dreams": "Field of Dreams 1989 (1080p x265 10bit Tigole).mkv",
+        "Fight Club": "Fight.Club.1999.10TH.ANNIVERSARY.EDITION.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv",
+        "Flight Plan": "Flightplan.2005.x264.DTS.2AUDIO-WAF.mkv",
+        "Get Out": "Get.Out.2017.1080p.10bit.BluRay.AAC.5.1.x265.HEVC-MZABI.mkv",
+        "Good Will Hunting": "Good Will Hunting (1997) V2 (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "I Am Sam": "I.Am.Sam.2001.BluRay.1080p.x265.10bit.AAC-highcal.mkv",
+        "K-PAX": "K-Pax (2001)1080p.HDRip.x265.HEVC.10bit.5,1ch.(xxxpav69).mkv",
+        "Limitless": "Limitless (2011) Unrated Extended (1080p BluRay x265 afm72).mkv",
+        "Nightmare Alley": "Nightmare Alley (2021) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "One Flew Over The Cuckoo's Nest": "One Flew Over the Cuckoo's Nest 1975 (1080p x265 10bit Tigole).mkv",
+        "Room": "Room.2015.1080p.BluRay.6CH.2.2GB.MkvCage.mkv",
+        "Still Alice": "Still Alice (2014) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "The Devil's Advocate": "The Devil's Advocate 1997 (1080p x265 10bit Tigole).mkv",
+        "The Game": "The Game (1997) Criterion (1080p BluRay x265 afm72).mkv",
+        "The Whale": "The Whale (2022) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Vanilla Sky": "Vanilla Sky (2001) RM (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Whiplash": "Whiplash 2014 (1080p x265 10bit Tigole).mkv"
+      },
+      "Romance": {
+        "American Beauty": "American Beauty (1999) (1080p x265 10bit Tigole).mkv",
+        "As Good As It Gets": "As Good as It Gets (1997) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Her": "Her 2013 (1080p x265 10bit Tigole).mkv",
+        "The Terminal": "The Terminal 2004 (1080p x265 10bit Tigole).mkv",
+        "What Dreams May Come": "What Dreams May Come (1998) (1080p BluRay x265 Panda).mkv"
+      },
+      "Travel": {
+        "Life of Pi": "Life of Pi 2012 (1080p x265 10bit Tigole).mkv",
+        "The Beach": "The Beach 2000 (1080p x265 10bit Tigole).mkv",
+        "The Da Vinci Code": "The Da Vinci Code - Extended Edition.mkv",
+        "The Secret Life Of Walter Mitty": "The Secret Life of Walter Mitty 2013 (1080p x265 10bit Tigole).mkv",
+        "Up in the Air": "Up in the Air (2009) (1080p x265 10bit Tigole).mkv"
+      }
+    },
+    "Family": {
+      "Adventure & Fantasy": {
+        "Babe Dual": {
+          "I": "Babe (1995) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "II": "Babe - Pig in the City (1998) (1080p BluRay x265 10bit Tigole) (1).mkv"
+        },
+        "Back To The Future Trilogy": {
+          "I": "Back to the Future 1985 1080p Bluray x265 AAC 5.1 - GetSchwifty.mkv",
+          "II": "Back to the Future Part II 1989 1080p Bluray x265 AAC 5.1 - GetSchwifty.mkv",
+          "III": "Back to the Future Part III 1990 1080p Bluray x265 AAC 5.1 - GetSchwifty.mkv"
+        },
+        "Bedtime Stories": "[x265ddl.com].Disney.Presents.Bedtime.Stories.2008.1080p.10bit.BluRay.6CH.x265.HEVC.mkv",
+        "Hansel And Gretel Witch Hunters": "Hansel.and.Gretel.Witch.Hunters.2013.1080p.10bit.BluRay.x265.HEVC-MZABI.mkv",
+        "Hook": "Hook.1991.1080p.BRrip.x264.YIFY.srt",
+        "Jumanji Trilogy": {
+          "I": "Jumanji (1995) (1080p x265 10bit Tigole).mkv",
+          "Next Level": "Jumanji - The Next Level (2019) (1080p BluRay x265 10bit Tigole).mkv",
+          "Welcome to the Jungle": "Jumanji - Welcome to the Jungle (2017) (1080p x265 10bit Tigole).mkv"
+        },
+        "Land Of The Lost": "Land of the Lost 2009 BDRip 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+        "Mighty Joe Young": "Mighty Joe Young 1998 BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+        "National Treasure Dual": {
+          "I": "National Treasure 2004 (1080p x265 10bit Tigole).mkv",
+          "II": "National Treasure - Book of Secrets 2007 (1080p x265 10bit Tigole).mkv"
+        },
+        "The Borrowers": "The Borrowers (1997) (1080p BluRay x265 FreetheFish).mkv",
+        "The Mummy Dual": {
+          "I": "The Mummy 1999 (1080p x265 10bit Tigole).mkv",
+          "II": "The Mummy Returns 2001 (1080p x265 10bit Tigole).mkv"
+        },
+        "The Princess Bride": "The Princess Bride (1987) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+      },
+      "Children": {
+        "A Series Of Unfortunate Events": "Lemony Snicket's A Series of Unfortunate Events (2004) (1080p BluRay x265 afm72).mkv",
+        "Big": "Big 1998 Extended (1080p x265 10bit Tigole).mkv",
+        "Casper": "Casper 1995 (1080p x265 10bit Tigole).mkv",
+        "Charlie And The Chocolate Factory": "Charlie and the Chocolate Factory (2005).mkv",
+        "Free Willy": "Free.Willy.1993.1080p.BluRay.x264.YIFY.mp4",
+        "Hugo": "Hugo 2011 (1080p x265 10bit Tigole).mkv",
+        "Joe Somebody": "Joe.Somebody.2001.1080p.BluRay.H264.AAC-RARBG.srt",
+        "Last Action Hero": "Last Action Hero (1993).mkv"
+      },
+      "Miscellaneous": {
+        "Alpha": "Alpha (2018) DC (1080p BluRay x265 10bit Tigole).mkv",
+        "Faris Bueller's Day Off": "Ferris Bueller's Day Off 1986 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "Ghostbusters": {
+          "Afterlife": "Ghostbusters - Afterlife (2021) (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "I": "Ghostbusters (1984) RM4K (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "Ghostbusters II (1989) 25th Anniv (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Gremlins Dual": {
+          "I": "Gremlins (1984) 30th Anniv (1080p BluRay x265 10bit Tigole).mkv",
+          "II": "Gremlins 2 - The New Batch 1990 (1080p x265 10bit Tigole).mkv"
+        },
+        "Thunderpants": "Thunder.Pants.BiNGO.mp4",
+        "War Games": "WarGames (1983) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv"
+      },
+      "Musical": {
+        "Step Up's": {
+          "II": "Step Up 2 The Streets (2008) (1080p BluRay x265 Panda).mkv",
+          "III": "Step Up 3D (2010) (1080p BluRay x265 Panda).mkv",
+          "IV": "Step Up 4 Revolution 2012 720p BluRay DTS x264-The Vortex.mkv",
+          "V": "Step Up All In (2014) 1080p 5.1ch BluRay RIP - [GeekRG].mp4"
+        },
+        "The Blues Brothers": "The Blues Brothers 1980 BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv"
+      }
+    },
+    "Fantasy": {
+      "Dragon Heart": "DragonHeart.1996.HDDVDRip.H264.AAC.Gopo.mp4",
+      "Goosebumps": "Goosebumps 2015 (1080p x265 10bit Tigole).mkv",
+      "Harry Potter": {
+        "Chamber Of Secrets": "Harry Potter and the Chamber of Secrets (2002) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Deathly Hallows": "Harry Potter and the Deathly Hallows - Part 2 (2011) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Goblet Of Fire": "Harry Potter and the Goblet of Fire (2005) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Half Blood Prince": "Harry Potter and the Half-Blood Prince (2009) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Order Of The Phoenix": "Harry Potter and the Order of the Phoenix (2007) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Philosepher's Stone": "Harry Potter and the Sorcerer's Stone (2001) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Prisoner of Azkaban": "Harry Potter and the Prisoner of Azkaban (2004) (2160p BluRay x265 10bit HDR Tigole).mkv"
+      },
+      "Jack The Giant Slayer": "Jack the Giant Slayer 2013 (1080p x265 10bit Tigole).mkv",
+      "Nights At The Museum": {
+        "I": "Night at the Museum 2006 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "II": "Night at the Museum Battle of the Smithsonian 2009 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "III": "Night at the Museum Secret of the Tomb 2014 1080p Bluray x265 10Bit AAC 7.1 - GetSchwifty.mkv"
+      },
+      "Pirates Of The Carribean": {
+        "I": "Pirates of the Caribbean - The Curse of the Black Pearl (2003) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "II": "Pirates of the Caribbean - Dead Man's Chest (2006) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "III": "Pirates of the Caribbean - At World's End (2007) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+      },
+      "The Lord Of The Rings": {
+        "Fellowship Of The Ring": "The Lord of the Rings - The Fellowship of the Ring (2001) Extended (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Return Of The King": "The Lord of the Rings - The Return of the King (2003) Extended (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Two Towers": "The Lord of the Rings - The Two Towers (2002) Extended (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+      }
+    },
+    "Holocaust": {
+      "Jojo Rabbit": "Jojo Rabbit (2019) (1080p BluRay x265 10bit Tigole).mkv",
+      "Life Is Beautiful": "Life Is Beautiful (1997) (1080p x265 10bit Tigole).mkv",
+      "Schindler's List": "Schindler's List (1993) 25th Anniv (1080p BluRay x265 10bit Tigole).mkv"
+    },
+    "Horror": {
+      "A Quiet Place": {
+        "II": "A Quiet Place Part II (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+      },
+      "Mimic": "japhson-mimic-1080p.mkv",
+      "Poltergeist": "Poltergeist 1982 (1080p x265 10bit Tigole).mkv",
+      "Se7en": "Se7en (1995) (1080p BluRay x265 10bit Tigole).mkv",
+      "The Blair Witch Project": "the.blair.witch.project.1999.1080p.proper.bluray.x264-meth.mkv",
+      "The Exorcist": "The Exorcist 1973 Extended DC (1080p x265 10bit Tigole).mkv",
+      "The Fly": "The Fly 1986 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+      "The Mist": "The Mist (2007) (1080p BluRay x265 10bit Tigole).mkv",
+      "The Wall": "Pink Floyd The Wall 1982 REPACK HDTV 1080p Sub Ita x265-NAHOM.mkv",
+      "Twilight Zone": "Twilight Zone-The Movie 1983 BluRay 10Bit 1080p DD5.1 H265-d3g[N1C].mkv",
+      "Us": "Us (2019) (1080p BluRay x265 10bit Tigole).mkv"
+    },
+    "Old Cinema": {
+      "12 Angry Men": "12.Angry.Men.1957.1080p.BluRay.x264-[YTS.AM].srt",
+      "Alfred Hitchcock Collection": {
+        "Psycho": {},
+        "Rear Window": "Rear Window 1954 (1080p x265 10bit Tigole).mkv",
+        "Shadow Of A Doubt": "Shadow of a Doubt 1943 (1080p x265 10bit Tigole).mkv",
+        "The Birds": "The.Birds.1963.1080p.BluRay.H264.AAC-RARBG.mp4",
+        "The Man Who Knew Too Much": "The Man Who Knew Too Much 1956 (1080p x265 10bit Tigole).mkv",
+        "Vertigo": "Vertigo 1958 (1080p x265 10bit Tigole).mkv"
+      },
+      "Being There": "Being There 1979 Criterion (1080p x265 10bit Tigole).mkv",
+      "Citizen Kane": "Citizen Kane (1941) (1080p BluRay x265 10bit Tigole).mkv",
+      "Creature from the Black Lagoon": "Creature from the Black Lagoon (1954) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "Nosferatu": "Nosferatu (1922) (1080p BluRay x265 10bit Tigole).mkv",
+      "Planet Of The Apes First Saga": {
+        "1968 - Planet Of The Apes": "Planet of the Apes 1968 (1080p x265 10bit Tigole).mkv",
+        "1970 - Beneath The Planet Of The Apes": "Beneath the Planet of the Apes 1970 (1080p x265 10bit Tigole).mkv",
+        "1971 - Escape From The Planet Of The Apes": "Escape from the Planet of the Apes 1971 (1080p x265 10bit Tigole).mkv",
+        "1972 - Conquest Of The Planet Of The Apes": "Conquest of the Planet of the Apes 1972 (1080p x265 10bit Tigole).mkv",
+        "1973 - Battle For The Planet Of The Apes": "Battle for the Planet of the Apes 1973 (1080p x265 10bit Tigole).mkv"
+      },
+      "Singin' In The Rain": "Singin' in the Rain (1952) (1080p BluRay x265 10bit Tigole).mkv",
+      "Sunset Boulevard": "Sunset Boulevard 1950 (1080p x265 10bit Tigole).mkv",
+      "The Elephant Man": "The Elephant Man (1980) RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "The Good The Bad And The Ugly": "The.Good.The.Bad.And.The.Ugly.1966.1080p.BluRay.x265.10bit-z97.mkv",
+      "The Great Dictator": "The Great Dictator 1940 Criterion (1080p x265 10bit Tigole).mkv",
+      "The Mummy": "The Mummy (1932) (1080p BluRay x265 10bit Tigole) (1).mkv",
+      "The Sound Of Music": "The Sound of Music 1965 45th Anniv (1080p x265 10bit Tigole).mkv",
+      "The War of the Worlds": "The War of the Worlds (1953) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+      "The Wizard of Oz": "The Wizard of Oz (1939) (2160p BluRay x265 10bit HDR Tigole).mkv"
+    },
+    "Romance": {
+      "500 Days Of Summer": "500 Days of Summer 2009 (1080p x265 10bit Tigole).mkv",
+      "About A Boy": "About a Boy (2002) (1080p x265 10bit Tigole).mkv",
+      "Definitely Maybe": "Definitely, Maybe (2008) (1080p BluRay x265 afm72).mkv",
+      "Groundhog Day": "Groundhog Day 1993  (1080p x265 10bit S74 Joy).mkv",
+      "It Could Happen To You": "It Could Happen To You (1994) 720p.mkv",
+      "Pretty Woman": "Pretty Woman (1990) (1080p x265 10bit Tigole).mkv"
+    },
+    "Science Fiction": {
+      "Apocalyptic": {
+        "9": "[Prof] 9.mkv",
+        "Akira": "Akira (1988) (1080p BluRay x265 RZeroX).mkv",
+        "Dredd": "Dredd (2012) (1080p BluRay x265 10bit Tigole).mkv",
+        "Equilibrium": "Equilibrium (2002)1080p.BluRay.x265.HEVC.10bit.5,1ch.(xxxpav69).mkv",
+        "Johnny Mnemonic": "Johnny Mnemonic[1995]BDRip[Eng]x264-XP17.mkv",
+        "Mad Max - Fury Road": "Mad Max - Fury Road (2015) (1080p BluRay x265 10bit Tigole).mkv",
+        "Oblivion": "Oblivion (2013) (1080p BluRay x265 10bit Tigole).mkv",
+        "Planet Of The Apes Trilogy": {
+          "Dawn": "Dawn of the Planet of the Apes (2014) [1080p x265 HEVC 10bit BluRay AAC 7.1] [Prof].mkv",
+          "Rise": "Rise of the Planet of the Apes (2011) [2160p x265 HEVC 10bit HDR BluRay DTS-HD MA 5.1] [Prof].mkv",
+          "War": "War for the Planet of the Apes (2017) [1080p x265 HEVC 10bit BD AAC 7.1] [Prof].mkv"
+        },
+        "Snowpiercer": "Snowpiercer (2013) (1080p BluRay x265 10bit Tigole).mkv",
+        "The Matrix": {
+          "The Animatrix": "The Animatrix 2003 (1080p x265 10bit Tigole).mkv",
+          "The Matrix": "The Matrix (1999) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "The Matrix Reloaded": "The Matrix Reloaded (2003) (2160p BluRay x265 10bit HDR Tigole).mkv",
+          "The Matrix Revolutions": "The Matrix Revolutions (2003) (2160p BluRay x265 10bit HDR Tigole).mkv"
+        }
+      },
+      "Interstellar": {
+        "2001 A Space Odyssey": "2001 - A Space Odyssey 1968 (1080p x265 10bit Tigole).mkv",
+        "Alien Saga": {
+          "1979": "Alien 1979 DC (1080p x265 10bit Tigole).mkv",
+          "Aliens": "Aliens 1986 SE (1080p x265 10bit Tigole).mkv",
+          "Covenant": "Alien - Covenant 2017 (1080p x265 10bit Tigole).mkv",
+          "III": "Alien 3 1992 SE (1080p x265 10bit Tigole).mkv",
+          "Prometheus": "Prometheus 2012 (1080p x265 10bit Tigole).mkv",
+          "Resurrection": "Alien Resurrection 1997 SE (1080p x265 10bit Tigole).mkv"
+        },
+        "Contact": "Contact (1997) (1080p BluRay x265 afm72).mkv",
+        "Dune": "Dune (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Ender's Game": "Ender's Game 2013 4K.UHD.2160p.BDRip Ita Eng x265-NAHOM.mkv",
+        "Galaxy Quest": "Galaxy Quest (1999) (1080p BluRay x265 Silence).mkv",
+        "Interstella 5555": "Interstella 5555- The 5tory of the 5ecret 5tar 5ystem (2003) [x265-10].mkv",
+        "Mission To Mars": "Mission to Mars (2000) (1080p x265 10bit Tigole).mkv",
+        "Predators": "Predators (2010)1080p.BluRay.x265.HEVC.10bit.5,1ch.(xxxpav69).mkv",
+        "Riddick Trilogy": {
+          "Pitch Black": "Pitch Black (2000) DC RM4K (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "Riddick": "Riddick (2013) DC (1080p x265 10bit Tigole).mkv",
+          "The Chronicles Of Riddick": "The Chronicles of Riddick (2004) DC (1080p x265 10bit Tigole).mkv"
+        },
+        "Star Trek": {
+          "Beyond": "Star Trek - Beyond (2016) (1080p BluRay x265 10bit Tigole).mkv",
+          "Into Darkness": "Star Trek - Into Darkness (2013) IMAX (1080p BluRay x265 10bit Tigole).mkv",
+          "Reboot": "Star Trek (2009) (1080p BluRay x265 10bit Tigole).mkv",
+          "The Motion Picture": "Star Trek - The Motion Picture (1979) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "The Search for Spock": "Star Trek III - The Search for Spock (1984) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "The Voyage Home": "Star Trek IV - The Voyage Home (1986) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+          "The Wrath of Khan": "Star Trek II - The Wrath of Khan (1982) DC (2160p BluRay x265 10bit HDR Tigole) (1).mkv"
+        },
+        "Starship Troopers": "Starship Troopers 1997 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+        "The Fifth Element": "The Fifth Element (1997) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "The Hitchiker's Guide To The Galaxy": "The Hitchhiker's Guide to the Galaxy 2005 (1080p x265 10bit Tigole).mkv",
+        "Total Recall": "Total Recall 1990 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv"
+      },
+      "On Earth": {
+        "A.I": "A.I. Artificial Intelligence 2001 (1080p x265 10bit Tigole).mkv",
+        "Annihilation": "Annihilation (2018) (1080p BluRay x265 10bit Tigole).mkv",
+        "Arrival": "Arrival (2016) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Battle Los Angeles": "Battle.Los.Angeles.2011.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69).mkv",
+        "Bicentennial Man": "Bicentennial Man (1999) (1080p AMZN WEBRip x265 Panda).mkv",
+        "Blade Runner": "Blade Runner 1982 Final Cut 30th Anniv (1080p x265 10bit Tigole).mkv",
+        "Close Encounters Of The Third Kind": "Close Encounters of the Third Kind (1977) 40th Anniv DC (1080p BluRay x265 10bit Tigole).mkv",
+        "Cloud Atlas": "Cloud Atlas 2012 (1080p x265 10bit Tigole).mkv",
+        "E.T. The Extra Terrestrial": "E.T. the Extra-Terrestrial (1982) (1080p BluRay x265 10bit Tigole).mkv",
+        "Edge of Tomorrow": "Edge of Tomorrow (2014) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Everything Everywhere All at Once": "Everything Everywhere All at Once (2022) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Evolution": "Evolution (2001) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Ex Machina": "Ex Machina (2015) 1080p x265 10bit Ita 5.1 Eng 5....1 big.mkv",
+        "Free Guy": "Free Guy (2021) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "Ghost in the Shell": {
+          "1995": "Ghost in the Shell (1995) (1080p BluRay x265 10bit Tigole).mkv",
+          "2017": "Ghost in the Shell (2017) (2160p BluRay x265 10bit HDR Tigole).mkv"
+        },
+        "Gravity": "[Prof] Gravity.mkv",
+        "I, Robot": "I, Robot 2004 (1080p x265 10bit Tigole).mkv",
+        "In Time": "In Time (2011) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Independence Day Dual": {
+          "I": "Independence Day (1996) Extended RM (1080p BluRay x265 10bit Tigole) (1).mkv",
+          "II": "Independence Day - Resurgence (2016) (1080p BluRay x265 10bit Tigole) (1).mkv"
+        },
+        "Lucy": "Lucy (2014) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "M3GAN": "M3GAN (2022) Unrated (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "MIB's": {
+          "MIB": "Men in Black (1997) RM4K (1080p BluRay x265 10bit Tigole).mkv",
+          "MIIB": "Men in Black II (2002) (1080p BluRay x265 10bit Tigole).mkv",
+          "MIIIB": "Men in Black 3 (2012) (1080p BluRay x265 10bit Tigole).mkv"
+        },
+        "Minority Report": "Minority Report (2002) (1080p BluRay x265 10bit Tigole).mkv",
+        "Paul": "Paul 2011 (1080p x265 10bit Tigole).mkv",
+        "Paycheck": "Paycheck 2003 (1080p x265 10bit Tigole).mkv",
+        "Predator": "Predator (1987) Ultimate Hunter (1080p BluRay x265 10bit Tigole).mkv",
+        "Ready Player One": "Ready Player One (2018) (2160p BluRay x265 10bit HDR Tigole).mkv",
+        "Real Steel": "Real Steel 2011 (1080p x265 10bit Tigole).mkv",
+        "RoboCop": {
+          "1987": "RoboCop 1987 Unrated DC (1080p x265 10bit Tigole).mkv",
+          "2014": "RoboCop 2014 (1080p x265 10bit Tigole).mkv"
+        },
+        "Source Code": "Source Code 2011 1080p Bluray x265 AAC 5.1 - GetSchwifty.mkv",
+        "Splice": "Splice (2009) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "The Circle": "The.Circle.2017.1080p.10bit.BluRay.AAC.5.1.x265.HEVC-MZABI.mkv",
+        "The Island": "The Island 2005 (1080p x265 10bit Tigole).mkv",
+        "The Watch": "The.Watch.2012.1080p.BluRay.x264.YIFY.srt",
+        "Tron Dual": {
+          "I": "Tron 1982 1080p Bluray x265 10Bit AAC 5.1 - GetSchwifty.mkv",
+          "II": "Tron Legacy 2010 1080p Bluray x265 10Bit AAC 7.1 - GetSchwifty.mkv"
+        },
+        "Upgrade": "Upgrade (2018) (1080p BluRay x265 10bit Tigole).mkv",
+        "War Of The Worlds": "War of the Worlds (2005) (1080p BluRay x265 10bit Tigole).mkv"
+      }
+    },
+    "True Stories": {
+      "Amazing Stories": {
+        "Apollo 13": "Apollo 13 (1995) (1080p BluRay x265 FreetheFish).mkv",
+        "Cast Away": "Cast Away 2000 (1080p x265 10bit Tigole).mkv",
+        "Concussion": "Concussion 2015 BluRay 1080p AC3 HEVC-d3g[PRiME].mkv",
+        "Dallas Buyers Club": "Dallas Buyers Club 2013 (1080p x265 10bit Tigole).mkv",
+        "I Love You Phillip Morris": "I Love You Phillip Morris (2009) (1080p BluRay x265 afm72).mkv",
+        "Joy": "Joy 2015 (1080p x265 10bit Joy).mkv",
+        "Man On The Moon": "Man on the Moon 1999 (1080p x265 10bit Tigole).mkv",
+        "Mary And Max": "Mary and Max (2009) (1080p BluRay x265 r00t).mkv",
+        "Pain And Gain": "Pain & Gain 2013 (1080p x265 10bit Tigole).mkv",
+        "Patch Adams": "Patch Adams (1998) (1080p BluRay x265 Panda).mkv",
+        "Sully": "Sully.2016.BluRay.1080p.10bit.5.1.x265.HEVC-Qman[UTR].mkv",
+        "The Blind Side": "The Blind Side (2009) (1080p BluRay x265 LION).mkv",
+        "The Pusuit Of Happyness": "The Pursuit of Happyness (2006) (1080p x265 10bit Tigole).mkv",
+        "Three Billboards Outside Ebbing, Missouri": "Three Billboards Outside Ebbing, Missouri (2017) (1080p x265 10bit Tigole).mkv"
+      },
+      "Legal & Journal": {
+        "American Made": "American Made 2017  (2160p x265 10bit S90 Joy).mkv",
+        "Erin Brockovich": "Erin Brockovich 2000 (1080p x265 10bit Tigole).mkv",
+        "Kill The Messenger": "Kill the Messenger 2014 (1080p x265 10bit Tigole).mkv",
+        "Snitch": "snitch.dvdrip.x264-ignition.mkv",
+        "Snowden": "Snowden 2016 (1080p x265 10bit Tigole).mkv",
+        "Spotlight": "[Prof] Spotlight.mkv",
+        "The Old Man & The Gun": "The Old Man & the Gun (2018) (1080p BluRay x265 10bit Tigole).mkv",
+        "Woman In Gold": "Woman in Gold (2015) (1080p x265 10bit Tigole).mkv"
+      },
+      "Life Stories": {
+        "Bohemian Rhapsody": "Bohemian Rhapsody (2018) (1080p BluRay x265 10bit Tigole).mkv",
+        "Chaplin": "Chaplin (1992) (1).mkv",
+        "Darkest Hour": "Darkest Hour (2017) (1080p x265 10bit Tigole).mkv",
+        "Hachiko A Dogs Story": "Hachiko A Dog's Story 2009 (1080p x265 10bit Joy).mkv",
+        "Hitchcock": "Hitchcock.2012.1080p.BluRay.x264.YIFY.srt",
+        "I, Tonya": "I, Tonya (2017) (1080p x265 10bit Tigole).mkv",
+        "King Richard": "King Richard (2021) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Lord Of War": "Lord of War 2005 (1080p x265 10bit Tigole).mkv",
+        "Rocketman": "Rocketman (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "Saving Mr. Banks": "Saving Mr. Banks (2013) (1080p BluRay x265 10bit Tigole).mkv",
+        "The Greatest Showman": "The Greatest Showman (2017) (2160p BluRay x265 10bit HDR Tigole) (1).mkv",
+        "The Imitation Game": "[Prof] The Imitation Game.mkv"
+      },
+      "Mathematical & Economical": {
+        "A Beautiful Mind": "A.Beautiful.Mind.2001.1080p.BluRay.10bit.HEVC.6CH-MkvCage.ws.mkv",
+        "Catch Me If You Can": "Catch Me If You Can (2002) (1080p BluRay x265 10bit Tigole).mkv",
+        "Hidden Figures": "Hidden Figures 2016  (2160p x265 10bit S88 Joy).mkv",
+        "Molly's Game": "Molly's Game (2017) (1080p x265 10bit Tigole).mkv",
+        "Moneyball": "Moneyball (2011) RM4K (1080p x265 10bit Tigole).mkv",
+        "Pawn Sacrifice": "Pawn Sacrifice 2014 (1080p x265 10bit Tigole).mkv",
+        "The Big Short": "The Big Short 2015 1080p Bluray x265 10Bit AAC 7.1 - GetSchwifty.mkv",
+        "The Man Who Knew Infinity": "The.Man.Who.Knew.Infinity.2015.1080p.BRRip.6CH.2GB.MkvCage.mkv",
+        "The Theory of Everything": "The Theory of Everything 2014 (1080p x265 10bit Tigole).mkv",
+        "The Wizard of Lies": "The Wizard of Lies 2017 (1080p x265 10bit Tigole).mkv",
+        "The Wolf Of Wall Street": "The.Wolf.Of.Wall.Street.2013.1080p.BluRay.10bit.x265.AAC-HazMatt.mkv"
+      },
+      "The Ugly Truth": {
+        "All Eyez On Me": "All Eyez on Me 2017 BluRay 10Bit 1080p Dts-HD Ma5.1 H265-d3g.mkv",
+        "Big Eyes": "Big Eyes (2014) (1080p BluRay x265 10bit Tigole).mkv",
+        "Bombshell": "Bombshell (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "City Of God": "City of God 2002 (1080p x265 10bit Tigole).mkv",
+        "Deep-Water Horizon": "Deepwater Horizon(2016)1080p.BluRay.x265.HEVC.10bit.5,1ch.(xxxpav69).mkv",
+        "Elvis": "Elvis (2022) (1080p BluRay x265 10bit Tigole) (1).mkv",
+        "Green Book": "Green Book (2018) (1080p BluRay x265 10bit Tigole).mkv",
+        "Straight Outta Compton": "Straight Outta Compton 2015 Unrated DC (1080p x265 10bit Tigole).mkv",
+        "The Disaster Artist": "The Disaster Artist (2017) (1080p x265 10bit Tigole).mkv",
+        "The Founder": "The_Founder_2016_6CH_1080p_x265_BrRip_30nama_30NAMA.mkv",
+        "The Help": "The Help 2011 (1080p x265 10bit Tigole).mkv",
+        "The King's Speech": "[Prof] The King's Speech.mkv",
+        "The Social Network": "The Social Network (2010) (1080p x265 10bit Tigole).mkv",
+        "Uncut Gems": "Uncut Gems (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "Vice": "Vice (2018) (1080p BluRay x265 10bit Tigole).mkv",
+        "Wind River": "Wind River 2017 (1080p x265 10bit Tigole).mkv"
+      },
+      "War & Terror": {
+        "1917": "1917 (2019) (1080p BluRay x265 10bit Tigole).mkv",
+        "American Sniper": "[Prof] American Sniper.mkv",
+        "Argo": "Argo 2012 Extended (1080p x265 10bit Tigole).mkv",
+        "Black Hawk Down": "Black Hawk Down (2001) (1080p BluRay x265 10bit Tigole).mkv",
+        "Bridge of Spies": "Bridge.Of.Spies.2015.1080p.BluRay.x265.10bit-z97.mkv",
+        "Hacksaw Ridge": "Hacksaw Ridge 2016  (2160p x265 10bit Joy).mkv",
+        "Mandela Long Walk to Freedom": "Mandela - Long Walk to Freedom (2013) (1080p BluRay x265 10bit Tigole).mkv",
+        "Patriots Day": "Patriots.Day.2016.1080p.BRRip.x264.AAC-ETRG.mp4",
+        "The Monuments Men": "The Monuments Men 2014 (1080p x265 10bit Tigole).mkv",
+        "Valkyrie": "Valkyrie 2008 (1080p x265 10bit Tigole).mkv",
+        "Walts With Bashir": "Waltz.with.Bashir.2008.1080p.BluRay.H264.AAC-RARBG.srt",
+        "War Dogs": "War Dogs (2016) (1080p BluRay x265 10bit Tigole).mkv",
+        "Zero Dark Thirty": "Zero.Dark.Thirty.(2012).1080p.BluRay.10-bit.x265.AAC.5.1 Qman[UTR].mkv"
+      }
+    }
+  },
+  "Lesser Quality": { "זוהי סדום": "Zohi.Sdom.2010.DVDRip.XviD-IsRaElim.avi" }
+}

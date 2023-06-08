@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+}
+
+html {
+  font-family: system-ui;
+  padding-inline: 30px;
+  overflow-y: auto;
+}
+
+h1 {
+  margin-block: 30px;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+.file {
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.dir {
+  padding: 10px;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.dir.close::before {
+  content: " + ";
+}
+
+.dir.close + ul {
+  max-height: 0;
+  grid-template-rows: 0fr;
+}
+
+.dir.open {
+  text-decoration: underline;
+}
+
+.dir.open::before {
+  content: " - ";
+}
+
+.dir.open + ul {
+  max-height: max-content;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
