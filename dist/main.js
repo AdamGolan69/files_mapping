@@ -2,12 +2,17 @@ const app = document.getElementById('app');
 const header = document.getElementById('header');
 let count = 0;
 
-fetch(`${location.origin}/Temporary`)
-    .then(res => res.json())
-    .then(dirs => app.append(printDirs(dirs)))
-    .catch(err => console.error(err))
-    .finally(() => header.innerText = `${count} ${header.innerText}`)
+// mapIt(app, 'Temporary', header);
 
+export function mapIt(ref, name, headerRef) {
+    fetch(`${location.origin}/${name}`)
+        .then(res => res.json())
+        .then(dirs => ref.append(printDirs(dirs)))
+        .catch(err => console.error(err))
+        .finally(() => {
+            if (headerRef) headerRef.innerText = `${count} Files`;
+        })
+}
 
 function printDirs(dirs) {
     const list = document.createElement('ul');
