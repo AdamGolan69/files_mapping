@@ -1,5 +1,6 @@
 import { error } from 'console';
 import { readdirSync, writeFileSync, lstatSync } from 'fs';
+import { MAPS } from './vars';
 
 type Branch = { [k: string]: string | string[] | Branch};
 
@@ -16,9 +17,9 @@ async function mapDirTree(path: string): Promise<any> {
     })
 }
 
-async function generateJSON(path: string) {
+export async function generateJSON(path: string) {
     try {
-        await writeFileSync(`${path.slice(path.lastIndexOf('/') + 1)}.json`, JSON.stringify(await mapDirTree(path)), 'utf8');
+        await writeFileSync(`${MAPS}/${path.slice(path.lastIndexOf('/') + 1)}.json`, JSON.stringify(await mapDirTree(path)), 'utf8');
     } catch (err) {
         error(err);
     }

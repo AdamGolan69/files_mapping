@@ -1,6 +1,7 @@
 import express from 'express';
 import { join } from 'path';
 import cors from 'cors';
+import { DIST, MAPS } from './vars';
 
 const app = express();
 const port = 3000;
@@ -8,15 +9,15 @@ const port = 3000;
 // Middleware
 app.use(express.json());
 app.use(cors());
-app.use(express.static(join(__dirname, 'dist')));
+app.use(express.static(join(__dirname, DIST)));
 
 // Routes
 app.get('/', (req, res) => {
-    res.sendFile(join(__dirname, 'dist', 'index.html'));
+    res.sendFile(join(__dirname, DIST, 'index.html'));
 });
 
 app.get('/:name', (req, res) => {
-    res.sendFile(join(__dirname, `${req.params.name}.json`));
+    res.sendFile(join(__dirname, MAPS, `${req.params.name}.json`));
 })
 
 // Start the server
