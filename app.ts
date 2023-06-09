@@ -24,5 +24,3 @@ export async function generateJSON(path: string) {
         error(err);
     }
 }
-
-generateJSON('D:/Main Vein/Temporary');
