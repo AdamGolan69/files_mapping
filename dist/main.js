@@ -1,6 +1,9 @@
 const app = document.getElementById('app');
 const header = document.getElementById('header');
 let count = 0;
+let tvReady = 0;
+
+mapIt(app, 'Movies', header);
 
 function mapIt(ref, name, headerRef) {
     fetch(`${location.origin}/${name}`)
@@ -8,7 +11,7 @@ function mapIt(ref, name, headerRef) {
         .then(dirs => ref.append(printDirs(dirs)))
         .catch(err => console.error(err))
         .finally(() => {
-            if (headerRef) headerRef.innerText = `${count} Files`;
+            if (headerRef) headerRef.innerText = `${count} Movies, TV Ready ${tvReady}(${(tvReady/count*100).toFixed(1)}%)`;
         })
 }
 
@@ -39,6 +42,11 @@ function printDirs(dirs) {
                 span.onclick = ({ target }) => {
                     const isClosed = target.classList.contains('close');
                     target.classList.replace(isClosed ? 'close' : 'open', isClosed ? 'open' : 'close');
+                    if (!isClosed) {
+                        document.getElementsByClassName
+                        const nestedDirs = target.parentElement.getElementsByClassName('open');
+                        Array.from(nestedDirs).forEach(el => el.classList.replace('open', 'close'));
+                    }
                 }
                 return [span, printDirs(value)];
             }
@@ -58,4 +66,5 @@ function setFile(el, fileName) {
     el.innerText = fileName;
     el.className = 'file';
     count++;
+    if (/\(\d\)/g.test(fileName)) tvReady++;
 }
