@@ -2,9 +2,7 @@ const app = document.getElementById('app');
 const header = document.getElementById('header');
 let count = 0;
 
-// mapIt(app, 'Temporary', header);
-
-export function mapIt(ref, name, headerRef) {
+function mapIt(ref, name, headerRef) {
     fetch(`${location.origin}/${name}`)
         .then(res => res.json())
         .then(dirs => ref.append(printDirs(dirs)))

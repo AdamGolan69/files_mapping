@@ -1,8 +1,8 @@
 {
-  "name": "mapping_files",
+  "name": "files_mapping",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "app.ts",
   "scripts": {
     "app": "ts-node app.ts",
     "server": "nodemon server.ts"
