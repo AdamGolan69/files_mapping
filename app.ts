@@ -1,5 +1,5 @@
 import { error } from 'console';
-import { readdirSync, writeFileSync, lstatSync, existsSync, mkdirSync } from 'fs';
+import { readdirSync, writeFileSync, lstatSync, existsSync, mkdirSync, statSync } from 'fs';
 import { MAPS } from './vars';
 
 type Branch = { [k: string]: string | (string | Branch)[] };
@@ -9,9 +9,10 @@ async function mapDirTree(path: string): Promise<any> {
         let tree: (string | Branch)[] = [];
         const directories = await readdirSync(path);
         for (const dir of directories) {
-            await lstatSync(`${path}/${dir}`).isFile()
-                ? Array.isArray(tree) ? tree.push(dir) : tree = [dir]
-                : tree.push({ [dir]: await mapDirTree(`${path}/${dir}`) });
+            const fPath = `${path}/${dir}`;
+            await lstatSync(fPath).isFile()
+                ? Array.isArray(tree) ? tree.push(`${dir} - ${(statSync(fPath).size / (1024 ** 3)).toFixed(2)}Gb`) : tree = [dir]
+                : tree.push({ [dir]: await mapDirTree(fPath) });
         }
         res(tree);
     })

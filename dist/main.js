@@ -1,6 +1,7 @@
 const app = document.getElementById('app');
 const header = document.getElementById('header');
 let count = 0;
+let memCount = 0;
 let tvReady = 0;
 
 mapIt(app, 'Movies', header);
@@ -11,7 +12,7 @@ function mapIt(ref, name, headerRef) {
         .then(dirs => ref.append(printDirs(dirs)))
         .catch(err => console.error(err))
         .finally(() => {
-            if (headerRef) headerRef.innerText = `${count} Movies, TV Ready ${tvReady}(${(tvReady/count*100).toFixed(1)}%)`;
+            if (headerRef) headerRef.innerHTML = `${count} Movies, TV Ready ${tvReady}(${(tvReady / count * 100).toFixed(1)}%)<br>${(memCount / 1024).toFixed(2)} Tb`;
         })
 }
 
@@ -63,6 +64,7 @@ function dirInitPkg(dir) {
 }
 
 function setFile(el, fileName) {
+    memCount += +fileName.slice(fileName.lastIndexOf(' - ') + 3, fileName.lastIndexOf('Gb'));
     el.innerText = fileName;
     el.className = 'file';
     count++;

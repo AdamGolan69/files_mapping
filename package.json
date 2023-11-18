@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.ts",
   "scripts": {
-    "app": "ts-node app.ts",
+    "map": "ts-node app.ts",
     "server": "nodemon server.ts"
   },
   "author": "",
