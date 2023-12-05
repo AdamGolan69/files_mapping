@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.ts",
   "scripts": {
+    "unconverted": "ts-node unconverted.ts",
     "map": "ts-node app.ts",
     "server": "nodemon server.ts"
   },
