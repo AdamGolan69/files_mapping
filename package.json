@@ -6,7 +6,8 @@
   "scripts": {
     "unconverted": "ts-node unconverted.ts",
     "map": "ts-node app.ts",
-    "server": "nodemon server.ts"
+    "server": "nodemon server.ts",
+    "map_serv": "npm run map && npm run server"
   },
   "author": "",
   "license": "ISC",

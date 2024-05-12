@@ -18,6 +18,24 @@ h1 {
   text-decoration: underline;
 }
 
+#searchbar {
+  margin: 10px;
+  padding: 10px;
+  width: fit-content;
+  display: flex;
+  gap: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+}
+
+#searchbar span, #searchbar input {
+  font-size: 1.3rem;
+}
+
+#searchbar input {
+  padding-inline: 10px;
+}
+
 .file {
   padding: 20px;
   font-size: 1.5rem;
@@ -33,7 +51,7 @@ h1 {
   content: " + ";
 }
 
-.dir.close + ul {
+.dir.close+ul {
   max-height: 0;
   grid-template-rows: 0fr;
 }
@@ -46,7 +64,7 @@ h1 {
   content: " - ";
 }
 
-.dir.open + ul {
+.dir.open+ul {
   max-height: max-content;
   border: 1px solid rgba(0, 0, 0, 0.4);
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);

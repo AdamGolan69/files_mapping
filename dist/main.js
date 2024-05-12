@@ -2,18 +2,51 @@ const app = document.getElementById('app');
 const header = document.getElementById('header');
 let count = 0;
 let memCount = 0;
-let tvReady = 0;
 
 mapIt(app, 'Movies', header);
 
 function mapIt(ref, name, headerRef) {
     fetch(`${location.origin}/${name}`)
         .then(res => res.json())
-        .then(dirs => ref.append(printDirs(dirs)))
+        .then(dirs => ref.append(createSearch(), printDirs(dirs)))
         .catch(err => console.error(err))
         .finally(() => {
-            if (headerRef) headerRef.innerHTML = `${count} Movies, TV Ready ${tvReady}(${(tvReady / count * 100).toFixed(1)}%)<br>${(memCount / 1024).toFixed(2)} Tb`;
+            if (headerRef) headerRef.innerHTML = `${count} Movies<br>${(memCount / 1024).toFixed(2)} Tb`;
         })
+}
+
+function createSearch() {
+    const
+        label = document.createElement('label'),
+        inp = document.createElement('input'),
+        span = document.createElement('span');
+    label.id = 'searchbar';
+    inp.oninput = (e) => {
+        e.target.value.length > 3 ? search(e.target.value.toLowerCase()) : resetSearch();
+    }
+    span.innerText = 'Search';
+    label.append(span, inp);
+    return label;
+}
+
+function search(str) {
+    resetSearch();
+    const files = document.getElementsByClassName('file');
+    Array.from(files).forEach(file => {
+        if (file.innerText.toLowerCase().includes(str)) {
+            let parent = file.parentElement;
+            const bubbleArr = [];
+            while (!parent.id.length) {
+                if (parent.className === 'dir') bubbleArr.push(parent);
+                parent = parent.parentElement;
+            }
+            bubbleArr.forEach(bubble => bubble.children[0].classList.replace('close', 'open'));
+        }
+    })
+}
+
+function resetSearch() {
+    Array.from(document.getElementsByClassName('dir open')).forEach(dir => dir.classList.replace('open', 'close'));
 }
 
 function printDirs(dirs) {
@@ -57,10 +90,7 @@ function printDirs(dirs) {
 }
 
 function dirInitPkg(dir) {
-    return [
-        typeof dir === 'string',
-        document.createElement('li')
-    ]
+    return [typeof dir === 'string', document.createElement('li')];
 }
 
 function setFile(el, fileName) {
@@ -68,5 +98,4 @@ function setFile(el, fileName) {
     el.innerText = fileName;
     el.className = 'file';
     count++;
-    if (/\(\d\)/g.test(fileName)) tvReady++;
 }
